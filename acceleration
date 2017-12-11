@@ -12,5 +12,5 @@ initial_velocity=0
 time=10
 acceleration=f(velocity,initial_velocity,time)
 
-print("\nThe acceleration(a)=(v-u)/t\n\t\t\t\t=({}-{})/{}\n\t\t\t\t={}".format(velocity,initial_velocity,time,acceleration))
+print("\nAcceleration(a)=(v-u)/t\n\t\t\t\t=({}-{})/{}\n\t\t\t\t={}".format(velocity,initial_velocity,time,acceleration))
 
